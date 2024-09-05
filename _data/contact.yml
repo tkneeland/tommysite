@@ -1,13 +1,13 @@
 #LinkedIn
 #https://www.linkedin.com/in/{{LinkedInUsername}}/
-linkdin_username: /
+linkdin_username: thomas-kneeland-jr
 
 #GitHub
 #https://github.com/{{GitHubUsername}}
-github_username: /
+github_username: tkneeland
 
 #https://github.com/{{GitHubUsername}}/{{GitHubRepo}}
-github_repo: /
+github_repo: tommysite
 
 #The email you'd like people to contact you with.
-email: /
+email: tkneeland@jahnelgroup.com

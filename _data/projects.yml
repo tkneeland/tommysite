@@ -1,13 +1,13 @@
 #If you have worked on relevant projects talk about them here
 
-- name: Project 1
-  description: A few sentences describing your project.
+- name: Chord Craft
+  description: For my WPI senior project, I created a VST plugin for digital audio work stations that uses machine learning to generate a chord progression from a given melody and exports the progression into a desired track. It was trained on hundreds of songs, keeping track of chord transition trends and the association of chords to the melody notes that they'd be accompanying.
 
-- name: Project 2
-  description: A few sentences describing your project.
+- name: Crowdfunding App
+  description: A clone of the popular site Kickstarter that I made using AWS Lambda & React for WPI's software engineering course.
 
-- name: Project 3
-  description: A few sentences describing your project.
+- name: 360 Energy RECs
+  description: Designed an arbitrum-based token for non-profit organization, 360 Energy, to help Indonesian fish farmers access renewable energy credits awarded from their hydro-electric generators.
 
-- name: Project 4
-  description: A few sentences describing your project.
+- name: Clash Retro
+  description: A vintage grid-based port of popular mobile game Clash Royale, written in C, given the look of old ASCII-rendered PC games from the 80s.

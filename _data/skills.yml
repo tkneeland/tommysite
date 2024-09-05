@@ -1,17 +1,17 @@
-header: Say something about what you're good at
+header: Strengths in backend development and team communication
 
-subheader: Give some more context
+subheader: 
 
 skill_list:
-  - name: Skill 1
-    description: A quick sentence or two describing your skill
+  - name: Proficient Languages/Frameworks
+    description: javascript, java, python, C/C++, HTML, SQL & others
 
-  - name: Skill 2
-    description: A quick sentence or two describing your skill
+  - name: Interpersonal Skills
+    description: efficient communicator, task delegation, time budgeting
 
-  - name: Skill 3
-    description: A quick sentence or two describing your skill
-
+  - name: Sound Design 
+    description: profficient experience with various DAWs such as Logic Pro, audio engineering & mixing/mastering, music composition in all genres
+    
 #If you have certifications, talk about them here
 certifications:
   - name: Certification 1
